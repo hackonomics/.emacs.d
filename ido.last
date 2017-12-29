@@ -1,0 +1,163 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/gismonti/Dropbox/personal/" . "auto/")
+ ("/home/gismonti/myprojects/nikola/mysite/themes/bootblog/assets/" . "css/")
+ ("/home/gismonti/myprojects/nikola/mysite/themes/" . "bootblog/")
+ ("/home/gismonti/myprojects/nikola/mysite/" . "themes/")
+ ("/home/gismonti/myprojects/nikola/" . "mysite/")
+ ("/home/gismonti/kitchin_emacs/" . "jmax/")
+ ("/home/gismonti/kitchin_emacs/jmax/" . "bibtex-utils/")
+ ("/home/gismonti/Dropbox/thesis/matching_model_influence/" . "paper_org_matching/")
+ ("/home/gismonti/myprojects/creativity/" . "Empirical_Prj_Exploration/")
+ ("/home/gismonti/.emacs.d/elpa/" . "pomidor-20170310.634/")
+ ("/home/gismonti/Dropbox/thesis/Final_product/" . "Chapters/")
+ ("/home/gismonti/template-latex-paper-from-orgmode/" . "paper/")
+ ("/home/gismonti/Dropbox/thesis/explor_Incentives_Competition/" . "org-version/")
+ ("/home/" . "gismonti/")
+ ("/home/gismonti/.emacs.d/" . "moe-theme.el-master/")
+ ("/home/gismonti/myprojects/" . "nikola/")
+ ("/home/gismonti/Dropbox/thesis/" . "matching_model_influence/")
+ ("/home/gismonti/Dropbox/" . "personal/")
+ ("/home/gismonti/" . "kitchin_emacs/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/gismonti/Dropbox/personal/"
+ "/home/gismonti/myprojects/nikola/mysite/"
+ "/home/gismonti/.emacs.d/"
+ "/home/gismonti/"
+ "/home/gismonti/Dropbox/thesis/matching_model_influence/paper_org_matching/"
+ "/home/gismonti/Dropbox/thesis/matching_model_influence/"
+ "/home/gismonti/kitchin_emacs/jmax/"
+ "/home/gismonti/Dropbox/thesis/Final_product/Chapters/"
+ "/home/gismonti/Dropbox/thesis/Final_product/"
+ "/home/gismonti/myprojects/creativity/Empirical_Prj_Exploration/"
+ "/home/gismonti/Scrivania/"
+ "/home/gismonti/.emacs.d/moe-theme.el-master/"
+ "/home/gismonti/.emacs.d/themes/"
+ "/home/gismonti/.emacs.d/elpa/pomidor-20170310.634/"
+ "/home/gismonti/Dropbox/thesis/mixed_oligo_R&D/"
+ "/home/gismonti/Dropbox/thesis/"
+ "/home/gismonti/myprojects/"
+ "/home/gismonti/Dropbox/thesis/explor_Incentives_Competition/"
+ "/home/gismonti/myprojects/thesis/"
+ "/home/gismonti/template-latex-paper-from-orgmode-master/paper/"
+ "/home/gismonti/Dropbox/thesis/explor_Incentives_Competition/org-version/"
+ "/home/gismonti/myprojects/datascience_ecnmx_proj/"
+ "/home/gismonti/phd-thesis-master/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "journal.org.gpg"
+ "conf.py"
+ "configuration.org"
+ ".emacs.d.pre-prelude.tar"
+ ".emacs"
+ "org_matching.org"
+ "articolo.tex"
+ "ox-cmu-dissertation.el"
+ "chapter_Matching.tex"
+ "thesis_mia.tex"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/gismonti/Dropbox/personal/" (23064 11538 461669 545000) "ltxpng/" ".git/" "my_projects.pdf" "my_projects.tex" "journal.org.gpg" "auto/" "../" "./" "my_projects.org" ".#lettera.org")
+
+ ("/home/gismonti/Dropbox/personal/auto/" (22681 26298 117631 374000) "lettera_pagano.el" "../" "./")
+
+ ("/home/gismonti/myprojects/nikola/mysite/themes/bootblog/assets/" (23057 43546 275651 626000) "css/" "../" "./")
+
+ ("/home/gismonti/myprojects/nikola/mysite/themes/bootblog/assets/css/" (23057 55063 501275 945000) "blog.css" "../" "./")
+
+ ("/home/gismonti/myprojects/" (23048 40285 189829 278000) "version_control/" "exploration_and_creativity/" "website/" "body_and_sport/" "coding_stuff/" "auto/" "../" "./" "nikola/" "Econometrics_DataScience/" "aws/")
+
+ ("/home/gismonti/myprojects/nikola/" (23048 41567 400426 852000) "share/" "lib/" "mysite/" "include/" "pip-selfcheck.json" "bin/" "../" "./")
+
+ ("/home/gismonti/myprojects/nikola/mysite/" (23057 44042 98875 523000) "files/" "themes/" "posts/" "__pycache__/" "cache/" ".doit.db" "conf.py" "images/" "galleries/" "templates/" "README.txt" "pages/" "listings/" "../" "./" "output/")
+
+ ("/home/gismonti/myprojects/nikola/mysite/themes/" (23057 43546 271651 551000) "../" "./" "bootblog/")
+
+ ("/home/gismonti/myprojects/nikola/mysite/themes/bootblog/" (23057 43546 275651 626000) "engine" "assets/" "parent" "bootblog.theme" "bundles" "README.md" "templates/" "conf.py.sample" "../" "./")
+
+ ("/home/gismonti/Dropbox/thesis/matching_model_influence/paper_org_matching/" (23056 22475 816757 293000) "org_matching.pdf" "#_minted-org_#" "org_matching.lot" "_minted-org_matching/" "_minted-org_" "org_matching.lof" "org_matching.org" "org_matching.spl" "../" "./" "org_matching.tex" "org_matching.bbl")
+
+ ("/home/gismonti/.emacs.d/" (23056 18737 849953 273000) "elpa/" "configuration.el" "auto-save-list/" "ac-comphist.dat" "bookmarks" "request/" "org-clock-save.el" ".cask/" "sensible-defaults.el" "snippets/" "recentf" "configuration.org" "abbrev_defs" "configuration.org~" "#configuration.org#" "../" "./" "ido.last")
+
+ ("/home/gismonti/" (23056 18029 641984 848000) "dictionary/" ".wget-hsts" ".cache/" "Bibliografia_PhD_Thesis/" "Scaricati/" ".dvdcss/" ".gem/" ".Skype/" "log" ".bashrc-anaconda2.bak" ".xsession-errors" ".gimp-2.8/" ".swp" ".Xresources" ".hardinfo/" "Dropbox/" ".ninja_ide/" ".mplayer/" ".config/" ".viminfo" ".sympy-history" "anaconda3/" ".FBReader/" ".purple/" ".ghc/" ".sudo_as_admin_successful" ".thunderbird/" ".zenmap/" ".dir_colors" "nohup.out" ".adobe/" ".bash_profile" "R/" ".emacs.d.pre-prelude.tar" ".swm" ".elinks/" "Immagini/" ".ICEauthority" ".goldendict/" ".dmrc" ".ipynb_checkpoints/" ".pki/" ".guayadeque/" ".gstreamer-0.10/" ".xfce4-session.verbose-log.last" ".bashrc-anaconda3.bak" ".xdvirc" ".macromedia/" ".java/" ".gtkrc-2.0" "myprojects/" "anki-2.0.45/" ".mozilla/" ".fltk/" ".thumbnails/" ".rstudio-desktop/" ".bashrc~" ".esd_auth" ".dbus/" ".gconf/" "passwrd.kdb" ".Xauthority" ".spyder2-py3/" ".texlive2016/" ".swo" ".bashrc" ".bash_logout" ".astropy/" ".condarc" "git-completion.bash" ".swn" ".gnome/" ".emacs.d/" ".gphoto/" ".RData" ".dropbox-dist/" ".idlerc/" "git-prompt.sh" ".gitignore" "emacs/" ".elfeed/" ".gitconfig" ".emacs" ".xfce4-session.verbose-log" ".presage/" ".erc/" "../" "./" ".bash_history" ".xsession-errors.old" ".gnupg/" ".ipython/" ".dropbox/" "Scrivania/" ".python_history" ".icons/" ".gnome2/" ".subversion/" ".continuum/" "kitchin_emacs/" ".chromium-bsu" ".bashrc_profile" ".jupyter/" ".local/" ".sage/" ".gksu.lock" ".pam_environment" ".xscreensaver")
+
+ ("/home/gismonti/Scrivania/" (23039 3601 328446 212000) "bibliografia/" "tesi_cerri.odt" "xubuntu-17.10-desktop-amd64.iso" "thesis_mattia-fochesato_oct_10.pdf" "Eric Matthes-Python Crash Course_ A Hands-On, Project-Based Introduction to Programming-No Starch Press (2015).pdf" "Evolutionary_stability_and_Nash_equilibrium_in_fin.pdf" "monkey/" "SpulberIJIO2012.pdf" "appunti-cps.pdf" "chiara_tesi_lavoro/" "esami-CPS-soluzioni.pdf" "jarc1de1.pdf" "guidelines-for-writing-a-masters-thesis.doc" "48-157-1-PB.pdf" ".ipynb_checkpoints/" "backup/" "Baker Gibbons Murphy (1999) - Informal Authority In Organizations.pdf" "xDSL Router.pdf" "SS_marriages.pdf" ".emacs.d/" "esempio.py" "thesis_mia.tex" "Thesis_draft-Cassese.pdf" "../" "./" "publ_2014_eer-67_82-106_optimal_incentive_contracts.pdf" "iml1de1.pdf" "rand.pdf" "fc1de1.pdf" "xubuntu-17.10-desktop-amd64.iso.torrent" "thesis_Cirrito.pdf")
+
+ ("/home/gismonti/kitchin_emacs/jmax/bibtex-utils/" (23037 63480 733440 327000) "ltxaccnt.el" "bibtex-mods.el" "clsc.el" "bibtools.el" "isbn.el" "ltxmenu.el" "bibtex-utils.el" "README.md" "../" "./" "bibtex-keys.el" "bibtex-misc.el")
+
+ ("/home/gismonti/kitchin_emacs/jmax/" (23037 63612 744926 389000) "elpa/" "packages.el" "words.el" "ox-manuscript.el" "install-jmax-mac.sh" "techela/" "ore.el" "jmax-test.el" "nikola.el" "examples/" "jmax-mac.sh" "jeldoc.el" "vipyr-hydra.el" "Cask" "org-editmarks.el" "jmax-org.el" "jmax.el" ".travis.yml" "org-colored-text.el" "criticmarkup-emacs/" "csv.el" "README.org" "jmax.org" ".git/" "vipyr.el" "matlab/" "init.el" "jmax.bat" "texmf/" "mail-merge.el" "install-jmax-win.sh" "Makefile" "ox-cmu-ms-report.el" "mile-hy.el" "cm-mods.el" "emacs-keybinding-command-tooltip-mode.el" ".gitmodules" "ivy-gilgamesh.el" "user/" ".gitignore" "emacs/" "ox-cmu-dissertation.el" "org-ref/" "jmax.sh" "gilgamesh.el" "python-setup.el" "email.el" "kitchinhub.el" "../" "./" "org/" "ox-manuscript-templates/" "jmax-utils.el" "ox-cmu-qualifier.el" "bibtex-utils/" "install-jmax-linux.sh" "ox-archive.el" "jmax-mode.el" "ox-cmu-memo.el")
+
+ ("/home/gismonti/kitchin_emacs/" (23037 63068 725104 318000) "jmax/" "../" "./")
+
+ ("/home/gismonti/myprojects/exploration_and_creativity/" (23044 32564 26231 32000) "creativity_dual_process/" "Empirical_Prj_Exploration/" "../" "./")
+
+ ("/home/gismonti/myprojects/exploration_and_creativity/Empirical_Prj_Exploration/" (23045 33360 488903 970000) "expl_comp_rp.pdf" "expl_comp_rp.tex" "Data/" "patent_data_visual.py" "expl_comp_rp.org" "KnowJan3.pdf" "biblio_creativity_competition/" "TR-629.pdf" "../" "./" "project_creativity.org")
+
+ ("/home/gismonti/Dropbox/thesis/Final_product/Chapters/" (23036 41680 679712 576000) "chapter_Exploration.log" "chapter_Matching.tex" "chapter_Matching.aux" "chapter_Mixed.aux" "introduction.log" "introduction.tex" "chapter_Mixed.log" "chapter_Exploration.tex" ".DS_Store" "chapter_Matching.log" "chapter_Exploration.aux" "introduction.aux" "../" "./" "chapter_Mixed.tex")
+
+ ("/home/gismonti/Dropbox/thesis/Final_product/" (23040 39405 81892 931000) "main.run.xml" "Appendices/" "thesis_mia.pdf" "thesis_mia.synctex.gz" "thesis_mia.bbl" "bibliographyMix.bib" "bibliography_phd_thesis_fin.bib" "thesis_mia.toc" "MastersDoctoralThesis.cls" "main.synctex.gz" "thesis_mia.blg" "bibliography_phd_thesis.bib" "thesis_mia.tex" "Figures/" "../" "thesis_mia.bcf" "./" "thesis_mia.aux" "Chapters/" "thesis_mia.log")
+
+ ("/home/gismonti/Dropbox/thesis/matching_model_influence/" (23036 42753 196030 406000) "figure.aux" "chapter_Matching.tex" "optimalcontract.tex" "listsymbols.org" "_region_.prv/" "intro.tex" "conclusion.tex" "optimalcontract_estensione_continuous_rv.tex" "articolo.blg" "paper_org_matching/" "#matching.tex#" "literature.tex~" "figure.tex" "appendice.tex~" "#modello2bis.tex#" "articolo.synctex.gz" "listsymbols.pdf" "presentation/" "articolo.bbl" "#optimalcontract_estensione_continuous_rv.tex#" "articolo.aux" "articolo.log" "figure.pdf" "#articolo.pdf#" ".git/" "modello2bis.tex" "listsymbols.org~" "intro.tex~" "appendix.tex" "listsymbols.tex~" "figure.synctex.gz" "paper3.synctex.gz" "_region_.synctex.gz" "articolo.pdf" "literature.tex" "figure.log" "symulation/" "appendice.tex" "auto/" "../" "modello2bis.tex~" "./" "articolo.tex" "appendix_matching.tex" "matching.tex" "articolo.tex~" "optimalcontract.tex~" "listsymbols.tex")
+
+ ("/home/gismonti/myprojects/creativity/Empirical_Prj_Exploration/" (23040 47999 122184 469000) "expl_comp_rp.pdf" "esempio.tex" "expl_comp_rp.tex" "Data/" "#esempio.org#" "patent_data_visual.py" "expl_comp_rp.org" "_minted-expl_comp_rp/" "_minted-esempio/" "biblio_creativity_competition/" "#expl_comp_rp.org#" ".#esempio.org" "esempio.pdf" "../" "./")
+
+ ("/home/gismonti/myprojects/creativity/" (23023 33155 482218 606000) "francesco_cerigioni_dual_decision_processes_01-13-17.pdf" "dualprocess.pdf" "be14-Charness.pdf" "awarchive.pdf" "annurev.psych.59.103006.pdf" "herbert_simon_creativity.pdf" "Cattani_Ferriani_2008.pdf" "creativeinnovation_revision_final.pdf" "Norris_et_al-2011-Journal_of_Personality.pdf" "KnowJan3.pdf" "Creativity.pdf" "Empirical_Prj_Exploration/" "TR-629.pdf" "../" "./" "project_creativity.org")
+
+ ("/home/gismonti/myprojects/coding_stuff/" (22994 28722 190727 332000) "Machine-Learning-master.zip" "git_commands.org" "prj_euler_plus_guttag/" "Algoritmi_e_Strutture_Dati.pdf" "Chapter_1_V6.1.ppt" "git_commands.org~" "(Prentice Hall series in artificial intelligence) Paul Graham-ANSI Common LISP-Prentice Hall (1996).pdf" "auctex.pdf" "python/" "Mickey Petersen-Mastering Emacs (2015).pdf" "../" "./" "John V. Guttag-Introduction to Computation and Programming Using Python With Application to Understanding Data-The MIT Press (2016).pdf" "minimaltikz.pdf" "Crash Course v0.5.ipynb.json")
+
+ ("/home/gismonti/Dropbox/thesis/explor_Incentives_Competition/" (23010 24355 334463 408000) "Literev.tex" "basic_research_cirrito.synctex.gz" "org-version/" "basic_research_cirrito.aux" "_region_.prv/" "appendix.tex~" "A_B_AB.png" "introduction.tex" "conclusion.tex" "exploration_exploitation_simulation.ipynb" "BC.tex~" "exploration_exploitation_simulation.py" "basic_research_cirrito.pdf" "basic_research_cirrito.tex~" "simulation/" "__pycache__/" "simulazione.py" "altra_roba/" "basic_research_cirrito.tex" "Untitled.ipynb" "introduction.tex~" "AvsB.png" "_region_.log" "chapter_Exploration.tex" ".ipynb_checkpoints/" "analysis.tex" "continuous_effort.tex" "BC.tex" ".git/" "asym_cournot.tex" "moralhazard.tex~" "Literev.tex~" "appendix.tex" "basic_research_cirrito.blg" "basic_research_cirrito.bbl" "simulazione_explr_explt.py" "basic_research_cirrito.prv/" "_region_.tex" "auto/" "../" "./" "discussion.tex" "asym_cournot.log" "basic_research_cirrito.log" "moralhazard.tex" "prv_basic_research_cirrito.log")
+
+ ("/usr/share/" (22991 58118 644987 464000) "publicsuffix/" "ubuntu-release-upgrader/" "im-config/" "java/" "ghostscript/" "bug/" "lxde/" "themes/" "color/" "python-wheels/" "netpbm/" "guake/" "avahi/" "perl-openssl-defaults/" "package-data-downloads/" "texstudio/" "console-setup/" "terminfo/" "lxinput/" "snmp/" "libfm/" "perl/" "libgda-5.0/" "debianutils/" "tex-common/" "gnome-control-center/" "gnome-system-tools/" "pam/" "bash-completion/" "aglfn/" "texinfo/" "gnome/" "libexttextcat/" "luajit-2.0.4/" "libthai/" "dh-python/" "texlive/" "xfce4/" "p11-kit/" "ffmpeg/" "defaults/" "lxqt/" "lcdf-typetools/" "groff/" "gnome-shell/" "gst-plugins-base/" "calendar/" "fonts/" "hardinfo/" "consolefonts/" "applications/" "evince/" "info/" "synaptic/" "pygtk/" "locales/" "perl5/" "qt4/" "cups/" "mime-info/" "language-selector/" "gcr-3/" "help/" "X11/" "polkit-1/" "pnm2ppa/" "lightdm/" "system-tools-backends-2.0/" "gksu/" "dnsmasq-base/" "sgml-base/" "sgml/" "accountsservice/" "system-config-printer/" "chromium-browser/" "pam-configs/" "menu/" "hunspell/" "metainfo/" "fcitx/" "iso-codes/" "autoconf/" "tcltk/" "pyshared/" "file-roller/" "ubuntu-drivers-common/" "debhelper/" "R/" "consoletrans/" "libc-bin/" "ca-certificates-java/" "locale-langpack/" "xml/" "aclocal/" "xpad/" "happy/" "foomatic/" "Thunar/" "usb_modeswitch/" "unity/" "update-notifier/" "pstoedit/" "liblangtag/" "mplayer/" "update-manager/" "m17n/" "help-langpack/" "distro-info/" "dictionaries-common/" "pixmaps/" "latex-cjk-common/" "glib-2.0/" "djvu/" "xgreeters/" "ssl-cert/" "debconf/" "nautilus-dropbox/" "man-db/" "vim/" "cdbs/" "evolution-data-server/" "GeoIP/" "foo2zjs/" "aspell/" "application-registry/" "keyrings/" "gtk-engines/" "PackageKit/" "automake-1.15/" "base-files/" "hplip/" "python-apt/" "python3/" "base-passwd/" "libgphoto2/" "foo2qpdl/" "mime/" "lxsession/" "po-debconf/" "colord/" "keepassx/" "alsa/" "file/" "midi/" "libaudio2/" "language-support/" "lxappearance/" "readline/" "mozilla/" "thumbnailers/" "gconf/" "locale/" "zoneinfo/" "gettext/" "xml-core/" "language-tools/" "cm-super/" "GConf/" "python/" "python-scour/" "ca-certificates/" "gcc-6/" "pcmanfm/" "doc/" "rsyslog/" "pavucontrol/" "initramfs-tools/" "presage/" "icu/" "directfb-1.2.10/" "systemd/" "libwacom/" "obconf/" "texmf/" "hal/" "openal/" "intltool/" "gpicview/" "xscreensaver/" "gnome-software/" "libreoffice/" "apport/" "popularity-contest/" "vte/" "galculator/" "binfmts/" "pandoc/" "indicators/" "omf/" "audacious/" "lightdm-gtk-greeter-settings/" "javascript/" "appdata/" "maven-repo/" "upstart/" "solid/" "gnumeric/" "mobile-broadband-provider-info/" "emacs25/" "resolvconf/" "gtk-doc/" "lxdm/" "aclocal-1.15/" "adduser/" "i18n/" "common-licenses/" "nano/" "qtchooser/" "mysql-common/" "vrms/" "pulseaudio/" "gvfs/" "git-core/" "idl/" "build-essential/" "grub/" "gdm/" "emacs/" "vlc/" "abiword-3.0/" "gdb/" "unity-greeter/" "librevenge/" "os-prober/" "simple-scan/" "lxpanel/" "gitweb/" "telepathy/" "gettext-0.19.8/" "doc-base/" "libgksu/" "asymptote/" "apps/" "pkgconfig/" "dict/" "libsensors4/" "gdebi/" "xsessions/" "usb-creator/" "games/" "misc/" "mimelnk/" "sounds/" "rubygems-integration/" "gtksourceview-3.0/" "backgrounds/" "poppler/" "gnupg/" "systemtap/" "xfburn/" "dbus-1/" "enchant/" "ots/" "lintian/" "indicator-application/" "intltool-debian/" "bibtool/" "zsh/" "emacs24/" "ubufox/" "dh-autoreconf/" "plymouth/" "desktop-directories/" "iptables/" "fonts-font-awesome/" "command-not-found/" "fontconfig/" "lubuntu/" "lxterminal/" "gstreamer-1.0/" "libnma/" "farstream/" "nm-applet/" "software-properties/" "alex/" "icons/" "ufw/" "dpkg/" "gnome-online-accounts/" "acpi-support/" "tabset/" "transmission/" "man/" "libtool/" "ppp/" "blueman/" "secureboot/" "ImageMagick-6/" "../" "./")
+
+ ("/usr/share/info/" (22991 48418 920405 638000) "emacs-25/" "eintr.info.gz" "ido.info.gz" "automake-1.15.info-2.gz" "tds.info.gz" "todo-mode.info.gz" "epspdf.info.gz" "m4.info-2.gz" "speedbar.info.gz" "gnus.info.gz" "tramp.info.gz" "emacs-mime.info.gz" "find.info.gz" "htmlfontify.info.gz" "grub.info.gz" "asymptote.info.gz" "semantic.info.gz" "ccmode.info.gz" "diffutils.info.gz" "gnupg.info-1.gz" "grep.info.gz" "web2c.info.gz" "bovine.info.gz" "ed.info.gz" "fontname.info.gz" "eieio.info.gz" "nxml-mode.info.gz" "dired-x.info.gz" "latex2e.info.gz" "libffi.info.gz" "grub-dev.info.gz" "vip.info.gz" "pgg.info.gz" "viper.info.gz" "bc.info.gz" "reftex.info.gz" "nano.info.gz" "ediff.info.gz" "octave-mode.info.gz" "emacs-gnutls.info.gz" "automake-1.15.info.gz" "gnupg.info.gz" "automake-1.15.info-1.gz" "ada-mode.info.gz" "ebrowse.info.gz" "sasl.info.gz" "dvips.info.gz" "sieve.info.gz" "erc.info.gz" "mf2pt1.info.gz" "remember.info.gz" "ede.info.gz" "autosprintf.info.gz" "bzip2.info.gz" "eww.info.gz" "coreutils.info.gz" "dc.info.gz" "dir" "autotype.info.gz" "texdraw.info.gz" "find-maint.info.gz" "wisent.info.gz" "kpathsea.info.gz" "emacs.info.gz" "info.info.gz" "tlbuild.info.gz" "org.info.gz" "srecode.info.gz" "mh-e.info.gz" "mairix-el.info.gz" "eshell.info.gz" "rcirc.info.gz" "eplain.info.gz" "time.info.gz" "sc.info.gz" "gnupg-module-overview.png" "message.info.gz" "woman.info.gz" "dbus.info.gz" "idlwave.info.gz" "wget.info.gz" "sed.info.gz" "edt.info.gz" "pcl-cvs.info.gz" "ses.info.gz" "epa.info.gz" "widget.info.gz" "gnupg.info-2.gz" "gnupg-card-architecture.png" "gzip.info.gz" "emacs-24/" "m4.info.gz" "newsticker.info.gz" "latex2man.info.gz" "flymake.info.gz" "dir.old" "elisp.info.gz" "calc.info.gz" "latex2e-es.info.gz" "rluserman.info.gz" "../" "./" "m4.info-1.gz" "ert.info.gz" "forms.info.gz" "cl.info.gz" "gettext.info.gz" "asy-faq.info.gz" "auth.info.gz" "eudc.info.gz" "dvipng.info.gz" "mtools.info.gz" "latex2e-fr.info.gz" "url.info.gz" "smtpmail.info.gz")
+
+ ("/home/gismonti/Dropbox/" (22982 53224 95762 86000) "Bibliografia_PhD_Thesis/" "thesis/" "Camera Uploads/" "research/" "Images/" "racconto/" "Signaling_Games/" "CV_job_stuff/" ".dropbox.cache/" "games_templates/" "elisp.pdf" "flask.pdf" ".~788807067097342345HI" "N_V_shared_projects/" "Carol Dweck-Mindset_ The New Psychology of Success-Ballantine Books (2007).mobi" "../" "./" ".dropbox" "boarding-pass-3.pdf" "Paper1/" "personal/" "innovation_competition_skectches/")
+
+ ("/home/gismonti/.emacs.d/moe-theme.el-master/" (22971 21262 0 0) "moe-dark-theme.el" "pics/" "moe-theme-switcher.el" "README.md" "moe-light-theme.el" "LICENSE" "moe-theme.el" ".gitignore" "moe-theme-pkg.el" "../" "./")
+
+ ("/home/gismonti/Dropbox/thesis/mixed_oligo_R&D/" (22979 29380 855113 309000) "_region_.prv/" "partialpriv.tex~" "intro.tex" "partialpriv.tex" "partialpriv.pdf" "model.tex~" "conclusions.tex" "equilibrium.tex~" "presentation.synctex.gz" "partialpriv.blg" "analysis.tex~" "_region_.log" ".ipynb_checkpoints/" "equilibrium.tex" "analysis.tex" "prv_partialpriv.log" "model.tex" "presentation.tex~" ".git/" "private.tex" "mathematica/" "presentation.tex" "cancella.tex" "appendix.tex" "presentation.pdf" "partialpriv.bbl" ".gitignore" "partialpriv.log" "_region_.tex" "mixed_oligo.ipynb" "auto/" "../" "./" "partialpriv.synctex.gz" "chapter_Mixed.tex" "partialpriv.aux")
+
+ ("/home/gismonti/myprojects/body_and_sport/" (22989 7403 349816 174000) "../" "./")
+
+ ("/home/gismonti/.emacs.d/elpa/pomidor-20170310.634/" (22745 11143 418185 152000) "pomidor-pkg.el" "tick.wav" "pomidor-autoloads.el" "pomidor.elc" "overwork.wav" "../" "./" "pomidor.el" "tack.wav")
+
+ ("/home/gismonti/.emacs.d/elpa/" (22929 62843 238672 752000) "package-build-20161014.2251/" "gntp-20141024.1950/" "skewer-mode-20170122.938/" "try-20170226.805/" "swiper-readme.txt" "websocket-20170610.2117/" "find-file-in-project-20170402.2100/" "ein-readme.txt" "elpy-20170401.1152/" "s-20160928.636/" "cl-generic-0.3.signed" "archives/" "cl-generic-0.3/" "highlight-indentation-20161012.209/" "shut-up-20150423.522/" "ztree-readme.txt" "company-20170328.1748/" "smartparens-20170312.450/" "pyvenv-20170224.538/" "deferred-20170531.2135/" "dash-20170207.2056/" "simple-httpd-20170125.1910/" "ivy-20170312.844/" "bind-key-20161218.1520/" "diminish-20151215.915/" "js2-mode-20170624.1249/" "auctex-11.90.2/" "which-key-20170209.729/" "use-package-20170218.132/" "alert-20170223.1030/" "f-20161002.800/" "../" "auctex-11.90.2.signed" "popup-20160709.729/" "./" "epl-20150517.433/" "auto-complete-20170124.1845/" "gnupg/" "pomidor-20170310.634/" "request-20170131.1747/" "yasnippet-20170310.1724/" "log4e-20150105.505/")
+
+ ("/home/gismonti/.emacs.d/themes/" (22916 56920 417308 181000) "charcoal-black-theme.el" "shaman-theme.el" "robin-hood-theme.el" "dark-green-theme.el" "aalto-dark-theme.el" "euphoria-theme.el" "gnome2-theme.el" "calm-forest-theme.el" "standard-ediff-theme.el" "color-theme-modern-pkg.el" "xemacs-theme.el" "whateveryouwant-theme.el" "andreas-theme.el" "vim-colors-theme.el" "jedit-grey-theme.el" "retro-orange-theme.el" "bharadwaj-slate-theme.el" "comidia-theme.el" "gtk-ide-theme.el" "tty-dark-theme.el" "late-night-theme.el" "blue-gnus-theme.el" "mistyday-theme.el" "word-perfect-theme.el" "midnight-theme.el" "jsc-dark-theme.el" "aalto-light-theme.el" "lethe-theme.el" "salmon-font-lock-theme.el" "aliceblue-theme.el" "infodoc-theme.el" "blue-erc-theme.el" "dark-erc-theme.el" "taming-mr-arneson-theme.el" "gnome-theme.el" "railscast-theme.el" "dark-blue-theme.el" "wheat-theme.el" "beige-diff-theme.el" "jonadabian-theme.el" "taylor-theme.el" "beige-eshell-theme.el" "dark-font-lock-theme.el" "desert-theme.el" "blue-mood-theme.el" "bharadwaj-theme.el" "color-theme-modern.el" "dark-gnus-theme.el" "dark-laptop-theme.el" "images/" "black-on-gray-theme.el" "oswald-theme.el" "blippblopp-theme.el" "Changes" "emacs-21-theme.el" "dark-blue2-theme.el" "README.md" "pok-wog-theme.el" "jsc-light2-theme.el" ".git/" "resolve-theme.el" "matrix-theme.el" "subtle-hacker-theme.el" "ryerson-theme.el" "billw-theme.el" "blue-eshell-theme.el" "kingsajz-theme.el" "raspopovic-theme.el" "emacs-nw-theme.el" "subtle-blue-theme.el" "high-contrast-theme.el" "sitaramv-nt-theme.el" "pierson-theme.el" "ld-dark-theme.el" "scintilla-theme.el" "screenshots.md" "classic-theme.el" "jsc-light-theme.el" "renegade-theme.el" "xp-theme.el" "katester-theme.el" "retro-green-theme.el" "gray30-theme.el" "arjen-theme.el" "marine-theme.el" "fischmeister-theme.el" "pok-wob-theme.el" "marquardt-theme.el" ".gitignore" "hober-theme.el" "snow-theme.el" "montz-theme.el" "goldenrod-theme.el" "../" "dark-info-theme.el" "./" "greiner-theme.el" "sitaramv-solaris-theme.el" "ramangalahy-theme.el" "blue-sea-theme.el" "deep-blue-theme.el" "parus-theme.el" "jonadabian-slate-theme.el" "cobalt-theme.el" "subdued-theme.el" "clarity-theme.el" "digital-ofs1-theme.el" "simple-1-theme.el" "standard-theme.el" "feng-shui-theme.el" "rotor-theme.el" "julie-theme.el" "snowish-theme.el" "gray1-theme.el" "jb-simple-theme.el" "lawrence-theme.el" "salmon-diff-theme.el")
+
+ ("/home/gismonti/Dropbox/thesis/" (22837 49917 719284 549000) "capitolo_intro.synctex.gz" "example.bib" "capitolo_intro.out" "matching_model_influence/" "mixed_oligo_R&D/" "prefazione.synctex.gz" "capitolo_intro.org" "capitolo_intro.pdf" "capitolo_intro.tex" "explor_Incentives_Competition/" "prefazione.log" "prefazione.aux" "Final_product/" "../" "./" "capitolo_intro.aux" "capitolo_intro.log" "prefazione.pdf" "prefazione.tex")
+
+ ("/home/gismonti/myprojects/datascience_ecnmx_proj/" (22796 25315 709598 704000) "jep.31.2.87.pdf" "../" "./" "ds-learning-project.org")
+
+ ("/home/gismonti/Dropbox/thesis/explor_Incentives_Competition/org-version/" (22764 63643 487217 156000) "org-files-to-tex.el" "paper.aux" "paper.pdf" "paper.bib" "paper.tex" "paper.blg" "paper.log" "extract_body.py" "paper.bbl" "exploration.tex" "Makefile" "exploration.org" "../" "./" "paper.synctex.gz")
+
+ ("/home/gismonti/template-latex-paper-from-orgmode-master/paper/" (22816 41761 428246 764000) "org-files-to-tex.el" "paper.aux" "paper.pdf" "figures/" "_minted-paper/" "loop-make.sh" "code/" "paper.bib" "paper.tex" "content.org" "content.tex~" "paper.blg" "paper.out" "paper.log" "extract_body.py" "paper.bbl" "Makefile" "../" "./" "content.tex")
+
+ ("/home/gismonti/myprojects/thesis/" (22816 41755 472149 982000) "thesis.org" "mixed_oligo.pdf" "mixed_oligo.tex" "mixed_oligo.org" "../" "./")
+
+ ("/home/gismonti/template-latex-paper-from-orgmode/paper/" (22756 40887 915498 882000) "org-files-to-tex.el" "paper.aux" "paper.pdf" "figures/" "_minted-paper/" "loop-make.sh" "code/" "paper.bib" "paper.tex" "content.org" "content.tex~" "paper.blg" "paper.out" "paper.log" "paper.bbl" "../" "./" "content.tex")
+
+ ("/home/" (22520 50783 0 0) "../" "./" "gismonti/")
+
+ ("/home/gismonti/myprojects/Data_anal_social_science/" (22653 15422 571544 236000) "nlsw88.csv" "fastfood.csv" "fastfood_hmwrk.r" "simulation.R" "hmw_IV.r" "Untitled.ipynb" ".Rhistory" ".ipynb_checkpoints/" "postedp.r" "census80.csv" "14310x_PSET4_Assignment.pdf" "postedp.R" ".RData" "14310x_Homework5_Questions.pdf" "indiv_final.csv" "../" "./" "cartier.csv" "pset7_questions.pdf" "modulo8_ex/" "pset9_questions.pdf")
+
+ ("/home/gismonti/template-latex-paper-from-orgmode/" (22730 45001 989538 336000) "paper/" "LICENSE.txt" "compiled-paper.pdf" "README.md" ".git/" "../" "./")
+
+ ("/usr/" (22526 36429 0 0) "share/" "lib/" "sbin/" "include/" "src/" "bin/" "lib64/" "local/" "../" "./" "games/" "@DATADIRNAME@/")
+
+ ("/usr/share/info/emacs-24/" (22725 33740 554381 186000) "eintr.info.gz" "ido.info.gz" "todo-mode.info.gz" "speedbar.info.gz" "gnus.info.gz" "tramp.info.gz" "emacs-mime.info.gz" "htmlfontify.info.gz" "semantic.info.gz" "ccmode.info.gz" "bovine.info.gz" "eieio.info.gz" "nxml-mode.info.gz" "dired-x.info.gz" "vip.info.gz" "pgg.info.gz" "viper.info.gz" "reftex.info.gz" "ediff.info.gz" "octave-mode.info.gz" "emacs-gnutls.info.gz" "ada-mode.info.gz" "ebrowse.info.gz" "sasl.info.gz" "sieve.info.gz" "erc.info.gz" "remember.info.gz" "ede.info.gz" "eww.info.gz" "autotype.info.gz" "wisent.info.gz" "emacs.info.gz" "info.info.gz" "org.info.gz" "srecode.info.gz" "mh-e.info.gz" "mairix-el.info.gz" "eshell.info.gz" "rcirc.info.gz" "sc.info.gz" "message.info.gz" "woman.info.gz" "dbus.info.gz" "idlwave.info.gz" "edt.info.gz" "pcl-cvs.info.gz" "ses.info.gz" "epa.info.gz" "widget.info.gz" "newsticker.info.gz" "flymake.info.gz" "elisp.info.gz" "calc.info.gz" "../" "./" "ert.info.gz" "forms.info.gz" "cl.info.gz" "auth.info.gz" "eudc.info.gz" "url.info.gz" "efaq.info.gz" "smtpmail.info.gz")
+
+ ("/home/gismonti/phd-thesis-master/" (22729 36189 841577 429000) "thesis.org" "LICENSE.txt" "mkPlots.sh" "articolo.org" "hwthesis.cls" "README.org" "results/" "mkImages.sh" "Makefile" "thesis.bib" "articolo.pdf" "img/" ".gitignore" "../" "./" "articolo.tex" "crest/" "thesis-commands.sty" "spin_model/" "msc/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

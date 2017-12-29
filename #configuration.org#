@@ -1,0 +1,124 @@
+* which-key
+#+begin_src emacs-lisp :tangle yes
+(use-package which-key
+	:ensure t
+	:config
+	(which-key-mode))
+#+end_src
+* using sensible-default
+#+BEGIN_SRC emacs-lisp
+(load-file "~/.emacs.d/sensible-defaults.el")
+(sensible-defaults/use-all-settings)
+(sensible-defaults/use-all-keybindings)
+#+END_SRC
+* autcomplete
+#+BEGIN_SRC emacs-lisp
+(ac-config-default)
+#+END_SRC
+* key bindings
+#+BEGIN_SRC emacs-lisp
+(global-set-key (kbd "C-c c") 'org-capture)
+(global-set-key (kbd "C-x c") 'split-window-right)
+(global-set-key (kbd "C-x d") 'split-window-below)
+(global-set-key (kbd "C-x <up>") 'other-window)
+(global-set-key (kbd "C-x z") 'delete-window)
+#+END_SRC
+* ido-mode
+ #+BEGIN_SRC emacs-lisp
+ (require 'ido)
+ (ido-mode t)
+ #+END_SRC
+* smartparens
+#+BEGIN_SRC emacs-lisp
+(require 'smartparens-config)
+(smartparens-global-mode t)
+;; some additional pairings
+(sp-pair "$" "$")
+(sp-local-pair 'org-mode "/" "/")
+#+END_SRC
+* yasnippet
+#+BEGIN_SRC emacs-lisp
+(use-package yasnippet
+  :ensure t
+  :init
+    (yas-global-mode 1))
+#+END_SRC
+* org-capture
+#+begin_src emacs-lisp :tangle yes
+(setq org-capture-templates
+ '(("p" "python" entry (file+headline "~/myprojects/my_projects.org"
+   "python")
+ "* %?\n")
+("e" "emacs" entry (file+headline "~/myprojects/my_projects.org"
+   "emacs")
+ "* %?\n")
+("j" "Journal" entry (file+datetree "~/Dropbox/personal/journal.org.gpg" "JOURNAL" )
+	"* %?" )
+))
+#+end_src
+* org-babel
+#+begin_src emacs-lisp :tangle yes
+(org-babel-do-load-languages
+'org-babel-load-languages
+'((python . t)
+(latex . t)
+(lisp . t)))
+
+(defun my-org-confirm-babel-evaluate (lang body)
+  "Do not confirm evaluation for these languages."
+  (not (or (string= lang "C")
+           (string= lang "java")
+           (string= lang "python")
+           (string= lang "emacs-lisp")
+           (string= lang "sqlite"))))
+(setq org-confirm-babel-evaluate 'my-org-confirm-babel-evaluate)
+#+end_src
+
+* org-latex
+#+begin_src emacs-lisp :tangle yes
+(eval-after-load 'org
+'(setq org-highlight-latex-and-related '(latex script entities)))
+
+(defun org-mode-reftex-setup()
+(load-library "reftex")
+(and (buffer-file-name) (file-exists-p (buffer-file-name))
+(progn
+;enable auto-revert-mode to update reftex when bibtex changes
+(global-auto-revert-mode t)
+(reftex-parse-all)
+)
+))
+(add-hook 'org-mode-hook 'org-mode-reftex-setup)
+
+(setq org-latex-to-pdf-process (list "latexmk -pdf %f"))
+
+;;bibliography file
+(setq reftex-default-bibliography
+'("/home/gismonti/Dropbox/thesis/explor_Incentives_Competition/org-version/bibliogaphy_phd_thesis.bib"))
+
+(setq org-src-fontify-natively t
+      org-src-window-setup 'current-window
+      org-src-strip-leading-and-trailing-blank-lines t
+      org-src-preserve-indentation t
+      org-src-tab-acts-natively t)
+#+end_src
+
+* python elpy
+#+begin_src emacs-lisp :tangle yes
+(use-package elpy
+  :ensure t
+  :disabled
+  :init
+  (with-eval-after-load 'python
+    (elpy-enable)
+    (elpy-use-ipython)
+    (delete 'elpy-module-highlight-indentation elpy-modules)))
+#+end_src
+* auctex
+#+begin_src emacs-lisp
+(use-package tex
+ :defer t
+ :ensure auctex
+ :config
+(setq Tex-auto-save t))
+#+end_src
